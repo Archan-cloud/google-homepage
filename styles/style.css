@@ -1,0 +1,109 @@
+body{
+	  margin: 0;
+	  padding: 0;
+}
+#nav{
+	 height: 21vh;
+	 width: 100%;
+
+}
+#mainlist{
+	list-style: none;
+	margin-left: 1000px;
+}
+#link {
+	text-decoration: none;
+	font-size: 13px;
+	font-family: arial, san-serif;
+}
+
+#sign-in {
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	line-height: 28px;
+	padding: 0px 12px;
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	background-color: blue;
+	color: #FFFFFF;
+	width: 90px;
+	height: 30px;
+	margin: 0px;
+	text-decoration: none;
+}
+
+li{
+	float: left;padding: 8px;
+}
+
+#mg{
+     height: 24px;
+     width: 24px;
+}
+
+#google{
+	height: 130px;
+	width: 310px;
+	margin-left: 500px;
+}
+input{
+	   height: 40px;
+	   width: 580px;
+	   margin-left: 370px;
+	   padding-left: 15px;
+	   font-size: 17px;
+	  border: 1px solid #e5e5e5;
+	  border-radius: 3%;
+	  box-shadow: 0px 3px 0px 0px #e5e5e5;
+
+}
+button{
+	    height: 38px;width:140px;
+	    background-color: #F6F6F6;
+	    font-size: 15px;color: #222222;
+	    margin-top:30px;
+	    border: 1px solid #E4E4E4
+}
+#nepali {
+	position: absolute;
+	left: 580px;
+	top: 460px;
+}
+
+#nepali a{
+	padding: 0 3px;
+	color: #609;
+	text-decoration: none;
+	color: #1a0dab;
+	font-family: arial, sans-serif;
+	cursor: pointer;
+	position: absolute;
+
+}
+
+#footer{
+	      height: 45px;width: 1363px;
+	      background-color: #F2F2F2;
+	      border: 1px solid #E4E4E4;
+	      margin-top:113.5px
+}
+#secondlist{
+	list-style: none;
+	margin-left: -25px;
+	color: #6F6F6F
+}
+#secondlist a{
+	text-decoration: none;
+	color: #5f6368;
+	font-family: arial;
+	font-size: 15px;
+}
+
+h4 {
+	color: #6F6F6F;
+	padding-left: 20px;
+	color: rgba(0, 0, 0, 0.54);
+	font-family: arial, sans-serif;
+	font-size: 15px;
+}
